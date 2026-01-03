@@ -40,5 +40,5 @@ This project is a comprehensive Exploratory Data Analysis (EDA) of a global reta
 
 ---
 ## 📂 Project Files
-**Global_E_Commerce_Sales_Analysis.ipynb** — The main Jupyter Notebook containing data cleaning, business logic, and visualizations.
-**Datasets** — The analysis was performed using countries.csv, events.csv, and products.csv (processed via Google Colab integration).
+* **Global_E_Commerce_Sales_Analysis.ipynb** — The main Jupyter Notebook containing data cleaning, business logic, and visualizations.
+* **Datasets** — The analysis was performed using countries.csv, events.csv, and products.csv (processed via Google Colab integration).
