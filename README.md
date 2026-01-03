@@ -39,6 +39,6 @@ This project is a comprehensive Exploratory Data Analysis (EDA) of a global reta
 * **Operational Planning:** Scale warehouse staff for Friday/Monday peaks to maintain processing speed.
 
 ---
-## 📂 Project Structure
-* `data/`: Contains `countries.csv`, `events.csv`, and `products.csv`.
-* `notebooks/`: [Main Analysis Notebook](./Python_Analysis_Task.ipynb) with full code and visualizations.
+## 📂 Project Files
+**Global_E_Commerce_Sales_Analysis.ipynb** — The main Jupyter Notebook containing data cleaning, business logic, and visualizations.
+**Datasets** — The analysis was performed using countries.csv, events.csv, and products.csv (processed via Google Colab integration).
